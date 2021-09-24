@@ -11,22 +11,23 @@ namespace GS_CSV
     {
         static void Main(string[] args)
         {
-            addRecord("124", "Mercy", "56", "results.txt");
-        }
-
-        public static void addRecord(string ID, string Name, string Age, string filepath)
-        {
-            try
+            foreach (string filename in args)
             {
-                using (System.IO.StreamWriter file = new System.IO.StreamWriter(@filepath, true))
-                {
-                    file.WriteLine(ID + "," + Name + "," + Age);
-                }
+                using var reader = new StreamReader(filename);
+                reader.ReadLine();
             }
-            catch (Exception ex)
+            var prices = new[] { 12, 43.5, 32, 9, 3.0 };
+            var sum = 0d;
+            for (int i = 0; i < prices.Length; i++)
             {
-                throw new ApplicationException("Bad program", ex);
+                sum += prices[i];
             }
+            var average = sum / prices.Length;
+            Console.WriteLine("The prices are 12, 43.5, 32, 9, and 3.0\n");
+            Console.WriteLine("Sum: " + sum);
+            Console.WriteLine("Average: " + average);
+            using var writer = new StreamWriter("results.csv");
+            Console.ReadKey();
         }
     }
 }

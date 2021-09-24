@@ -1,7 +1,7 @@
-C:\workspace\GitHub\Michael\GS_CSV\GS_CSV\bin\Debug\GS_CSV.exe.config
-C:\workspace\GitHub\Michael\GS_CSV\GS_CSV\bin\Debug\GS_CSV.exe
-C:\workspace\GitHub\Michael\GS_CSV\GS_CSV\bin\Debug\GS_CSV.pdb
-C:\workspace\GitHub\Michael\GS_CSV\GS_CSV\obj\Debug\GS_CSV.csproj.AssemblyReference.cache
-C:\workspace\GitHub\Michael\GS_CSV\GS_CSV\obj\Debug\GS_CSV.csproj.CoreCompileInputs.cache
-C:\workspace\GitHub\Michael\GS_CSV\GS_CSV\obj\Debug\GS_CSV.exe
-C:\workspace\GitHub\Michael\GS_CSV\GS_CSV\obj\Debug\GS_CSV.pdb
+C:\workspace\Github\Michael\GS_CSV\GS_CSV\obj\Debug\GS_CSV.csproj.AssemblyReference.cache
+C:\workspace\Github\Michael\GS_CSV\GS_CSV\obj\Debug\GS_CSV.csproj.CoreCompileInputs.cache
+C:\workspace\Github\Michael\GS_CSV\GS_CSV\bin\Debug\GS_CSV.exe.config
+C:\workspace\Github\Michael\GS_CSV\GS_CSV\bin\Debug\GS_CSV.exe
+C:\workspace\Github\Michael\GS_CSV\GS_CSV\bin\Debug\GS_CSV.pdb
+C:\workspace\Github\Michael\GS_CSV\GS_CSV\obj\Debug\GS_CSV.exe
+C:\workspace\Github\Michael\GS_CSV\GS_CSV\obj\Debug\GS_CSV.pdb
